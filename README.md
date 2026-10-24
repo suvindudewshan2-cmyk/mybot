@@ -1,0 +1,2 @@
+# mybot
+my ai bot
